@@ -1,7 +1,7 @@
 # peek
 A stupid vscode extension to log a variable value with its identifier
 
-![](https://media.giphy.com/media/0qDVs5CAZebRRWTpeB/giphy.gif)
+![](https://media.giphy.com/media/JfWaCTPT14GHUkQuBY/giphy.gif)
 
 ### What?
 
