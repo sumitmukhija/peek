@@ -1,0 +1,25 @@
+{
+    "name": "peekafoo",
+    "displayName": "peekafoo",
+    "description": "Logs a variable name and the value.",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sumitmukhija/peek-a-foo"
+    },
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

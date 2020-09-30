@@ -1,0 +1,25 @@
+{
+    "peek": {
+        "prefix": "peek",
+        "body": [
+            "console.log('${var} ', ${var});"
+        ],
+        "description": "Logs the name and value of a variable."
+    },
+
+    "yell":{
+        "prefix": "yell",
+        "body": [
+            "console.error('${var} ', ${var});"
+        ],
+        "description": "console.error the name and value of a variable."
+    },
+
+    "trace":{
+        "prefix": "trace",
+        "body": [
+            "console.trace();"
+        ],
+        "description": "Stack trace for a function."
+    }
+}

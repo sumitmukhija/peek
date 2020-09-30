@@ -23,3 +23,5 @@ A stupid vscode extension to log a variable value with its identifier
 
 - `trace` to use `console.trace`
 
+### Demo? 
+https://media.giphy.com/media/0qDVs5CAZebRRWTpeB/giphy.gif
