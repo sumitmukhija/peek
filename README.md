@@ -1,4 +1,4 @@
-# peekafoo
+# peek
 A stupid vscode extension to log a variable value with its identifier
 
 ![](https://media.giphy.com/media/0qDVs5CAZebRRWTpeB/giphy.gif)
@@ -25,3 +25,6 @@ A stupid vscode extension to log a variable value with its identifier
 
 ### Demo? 
 https://media.giphy.com/media/0qDVs5CAZebRRWTpeB/giphy.gif
+
+### Download?
+https://marketplace.visualstudio.com/items?itemName=SumitMukhija.peek
