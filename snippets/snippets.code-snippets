@@ -21,5 +21,13 @@
             "console.trace();"
         ],
         "description": "Stack trace for a function."
+    },
+
+    "here":{
+        "prefix": "here",
+        "body": [
+            "console.log('here..');"
+        ],
+        "description": "Logs the string 'here..'. To be used to check if the control reaches in an if statement"
     }
 }

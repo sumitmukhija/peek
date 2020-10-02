@@ -23,8 +23,10 @@ A stupid vscode extension to log a variable value with its identifier
 
 - `trace` to use `console.trace`
 
+- `here` to use `console.log('here..')`
+
 ### Demo? 
-https://media.giphy.com/media/0qDVs5CAZebRRWTpeB/giphy.gif
+https://media.giphy.com/media/JfWaCTPT14GHUkQuBY/giphy.gif
 
 ### Download?
 https://marketplace.visualstudio.com/items?itemName=SumitMukhija.peek
